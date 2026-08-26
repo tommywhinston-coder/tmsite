@@ -1,7 +1,7 @@
 {
   "title": "Новый режим",
   "rgb": "139,92,246",
-  "version": "v1.0",
+  "version": "v1.1",
   "genres": [],
   "mcver": "1.20+",
   "players": "Одиночная",
@@ -18,6 +18,21 @@
   "features": [
     "Первая фича"
   ],
-  "log": [],
+  "log": [
+    [
+      "v1.1",
+      "говно",
+      "26.08.2026",
+      [
+        "хуй"
+      ],
+      [
+        "assets/novyy-rezhim/1787742776169--2.png",
+        "assets/novyy-rezhim/1787742777764-4bd54213-63fb-4687-b119-6e4d910b9a10.png",
+        "assets/novyy-rezhim/1787742780502-2025-10-31_17.16.50.png",
+        "assets/novyy-rezhim/1787742783832-Granny3.jpg"
+      ]
+    ]
+  ],
   "soon": false
 }
