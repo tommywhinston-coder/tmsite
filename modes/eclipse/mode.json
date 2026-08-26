@@ -1,0 +1,27 @@
+{
+  "title": "ECLIPSE",
+  "rgb": "139,92,246",
+  "version": "v1.0",
+  "genres": [
+    "Космос",
+    "Чужой",
+    "Шутер"
+  ],
+  "mcver": "1.12.2",
+  "players": "Мульти",
+  "updated": "26.08.2026",
+  "release": "26.08.2026",
+  "build": "modes/eclipse/eclipse.zip",
+  "shots": [
+    "modes/eclipse/images/1787756373526-eclipse.jpg"
+  ],
+  "short": "короткое",
+  "about": [
+    "Расскажи об этом режиме."
+  ],
+  "features": [
+    "Первая фича"
+  ],
+  "log": [],
+  "soon": false
+}
