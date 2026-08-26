@@ -1,0 +1,23 @@
+{
+  "title": "Новый режим",
+  "rgb": "139,92,246",
+  "version": "v1.0",
+  "genres": [],
+  "mcver": "1.20+",
+  "players": "Одиночная",
+  "updated": "26.08.2026",
+  "release": "TBA",
+  "build": "novyy-rezhim.zip",
+  "shots": [
+    "assets/mode-1/1787742627696-eclipse.jpg"
+  ],
+  "short": "",
+  "about": [
+    "Расскажи об этом режиме."
+  ],
+  "features": [
+    "Первая фича"
+  ],
+  "log": [],
+  "soon": false
+}
