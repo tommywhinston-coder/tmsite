@@ -13,7 +13,10 @@
   "release": "TBA",
   "build": "modes/mode-1/mode-1.zip",
   "shots": [
-    "modes/mode-1/images/1787744697644-eclipse.jpg"
+    "modes/mode-1/images/1787744697644-eclipse.jpg",
+    "modes/eclipse/images/1787754498285-63ebcdc5da03410fb0e2e2b2f95aa0ad.jpg",
+    "modes/eclipse/images/1787754500353-bad14c2527634590bba901b3dc351c42.png",
+    "modes/eclipse/images/1787754502132-ghostescape.png"
   ],
   "short": "фыв",
   "about": [
