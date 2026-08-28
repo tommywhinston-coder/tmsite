@@ -1,0 +1,27 @@
+{
+  "title": "BACKROOMS 4 LVL",
+  "rgb": "204,187,92",
+  "version": "v1.0",
+  "genres": [
+    "Хоррор",
+    "Лиминальное пространство",
+    "Выживание"
+  ],
+  "mcver": "1.12.2",
+  "players": "Мультиплеер от 2-ух чел.",
+  "updated": "",
+  "release": "02.07.2022",
+  "build": "modes/backrooms-4-lvl/backrooms-4-lvl.zip",
+  "shots": [
+    "modes/backrooms-4-lvl/images/1787911385452-1-maxresdefault1.jpg"
+  ],
+  "short": "выа",
+  "about": [
+    "Расскажи об этом режиме.ы"
+  ],
+  "features": [
+    "Первая фича"
+  ],
+  "log": [],
+  "soon": false
+}
